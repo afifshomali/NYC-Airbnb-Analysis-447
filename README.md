@@ -14,7 +14,7 @@ License for InsideAirbnb Data : [Creative Commons Attribution 4.0 International 
 
 `Datasets` : Directory containing the datasets, inside there is a sub-directory for the Airbnb listings data, the Airbnb Reviews data is not uploaded to the repository as the file size is too large.  
 `PreProcessingAirbnb.ipynb` : Notebook that serves to combine, clean and preprocess the `listings.csv` datasets from InsideAirbnb.  
-`FeatureEngineeringAirbnb.ipynb`: Notebook that does Feature Engineering based on the text-based columns (such as reviews & descriptions) as well as converting other columns (such as amenities & host verifications) to categorical variables.     
+`FeatureEngineeringAirbnb.ipynb`: Notebook that does Feature Engineering based on the text-based columns (such as reviews & descriptions) as well as converting other columns (such as amenities & host verifications) to categorical variables.  
 `EdaAirbnb.ipynb` : Notebook for exploratory Data Analysis of the primary Airbnb Dataset.    
 `EdaCrime.ipynb`: Notebook for exploratory Data Analysis of supplementary Crime Dataset.  
 `EdaIncome.ipynb`: Notebook for exploratory Data Analysis of supplementary Income Dataset.  
