@@ -19,5 +19,5 @@ License for InsideAirbnb Data : [Creative Commons Attribution 4.0 International 
 `EdaCrime.ipynb`: Notebook for exploratory Data Analysis of supplementary Crime Dataset.  
 `EdaIncome.ipynb`: Notebook for exploratory Data Analysis of supplementary Income Dataset.  
 `airbnb_map.html` & `crimemap.html`: 2 html files for interactive maps created during the EDA of our datasets, help visualize the distribution of types of rooms across NYC and the distribution of crimes across NYC.  
-`Modeling.ipnb`: Modeling Work for just predicting whether the host is a superhost.     
+`Modeling.ipnb`: Modeling Work for just predicting whether the host is a superhost.  
 `ModelingNumBookings.ipynb`: Modeling Work for predicting the number of bookings listings will receive.  
