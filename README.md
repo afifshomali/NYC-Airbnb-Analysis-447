@@ -7,8 +7,14 @@ This project serves to conduct a general analysis of Airbnb data sourced from In
 ## Datasets
 
 The InsideAirbnb was accessed at <https://insideairbnb.com/get-the-data/>  
-The data used was from New York City for the months May through September, we used the `listings.csv` and `reviews.csv` datasets from each month for the purposes of the analysis.  
-License for InsideAirbnb Data : [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+The data used was from New York City for the months May through September, we used the `listings.csv` and `reviews.csv` datasets from each month for the purposes of the analysis.    
+License for InsideAirbnb Data : [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+
+NYC Crime/Arrest Data:  
+https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr/data  
+NYC Income Data:  
+https://www.kaggle.com/datasets/jinbonnie/condominium-comparable-rental-income-in-nyc (income per rental square foot in every area)  
+
 
 ## Repository Index
 
