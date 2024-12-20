@@ -13,7 +13,7 @@ License for InsideAirbnb Data : [Creative Commons Attribution 4.0 International 
 NYC Crime/Arrest Data:  
 https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr/data  
 NYC Income Data:  
-https://www.kaggle.com/datasets/jinbonnie/condominium-comparable-rental-income-in-nyc (income per rental square foot in every area)  
+https://www.kaggle.com/datasets/jinbonnie/condominium-comparable-rental-income-in-nyc
 
 
 ## Repository Index
